@@ -4,35 +4,169 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="" />
+    <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploCapturaFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploCompararFechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploJavaUtilDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploJavautilCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/ManejoMilisegundos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/TareaCalcularEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/MenuDesplegable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaForArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaIfElseNumeroDiasMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaSwitchCaseNumeroDias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/App.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2auDwqICJAnfzIiMrcVNXfOcoLo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjemploCapturaFecha.executor": "Run",
+    "Application.EjemploCompararFechas.executor": "Run",
+    "Application.EjemploJavaUtilDate.executor": "Run",
+    "Application.EjemploJavautilCalendar.executor": "Run",
+    "Application.ManejoMilisegundos.executor": "Run",
+    "Application.SentenciaForArreglos.executor": "Run",
+    "Application.SentenciaIfElse.executor": "Run",
+    "Application.SentenciaSwitchCase.executor": "Run",
+    "Application.SentenciasBucleEtiquetas.executor": "Run",
+    "Application.Tarea.executor": "Run",
+    "Application.Tarea2.executor": "Run",
+    "Application.TareaCalcularEdad.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "YarleyMejia",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.ycmejia.FlujosDeControl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TareaCalcularEdad">
+    <configuration name="EjemploCapturaFecha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.EjemploCapturaFecha" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploCompararFechas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.EjemploCompararFechas" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploJavautilCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.EjemploJavautilCalendar" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManejoMilisegundos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.ManejoMilisegundos" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TareaCalcularEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.TareaCalcularEdad" />
+      <module name="Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TareaCalcularEdad" />
+        <item itemvalue="Application.EjemploCompararFechas" />
+        <item itemvalue="Application.EjemploCapturaFecha" />
+        <item itemvalue="Application.EjemploJavautilCalendar" />
+        <item itemvalue="Application.ManejoMilisegundos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,11 +175,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705159812143</updated>
-      <workItem from="1705159813271" duration="6000" />
+      <workItem from="1705159813271" duration="9558000" />
+      <workItem from="1705235814634" duration="4891000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaSwitchCaseNumeroDias.java</url>
+          <line>5</line>
+          <properties class="org.ycmejia.FlujosDeControl.SentenciaSwitchCaseNumeroDias" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploJavaUtilDate.java</url>
+          <line>6</line>
+          <properties class="org.ycmejia.DateCaledar.EjemploJavaUtilDate" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
