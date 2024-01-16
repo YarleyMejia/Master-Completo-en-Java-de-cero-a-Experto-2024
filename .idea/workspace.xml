@@ -5,25 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploCapturaFecha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploCompararFechas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploJavaUtilDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/EjemploJavautilCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/ManejoMilisegundos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/DateCaledar/TareaCalcularEdad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/MenuDesplegable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaForArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaIfElseNumeroDiasMes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaSwitchCaseNumeroDias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/Tarea3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosCombinados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/DetectarOrdenArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/NumeroMayorArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/OrdenamientoBurbuja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/OrdenarArreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ordenPricipioFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ClaseMath/TareaMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/SystemProperties/EjemploSystemProperties.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +43,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArreglosCombinados.executor": "Run",
     "Application.EjemploCapturaFecha.executor": "Run",
     "Application.EjemploCompararFechas.executor": "Run",
     "Application.EjemploJavaUtilDate.executor": "Run",
     "Application.EjemploJavautilCalendar.executor": "Run",
+    "Application.EjemploSystemProperties.executor": "Run",
     "Application.ManejoMilisegundos.executor": "Run",
+    "Application.NumeroMayorArreglo.executor": "Run",
+    "Application.OrdenamientoBurbuja.executor": "Run",
+    "Application.OrdenarArreglos.executor": "Run",
     "Application.SentenciaForArreglos.executor": "Run",
     "Application.SentenciaIfElse.executor": "Run",
     "Application.SentenciaSwitchCase.executor": "Run",
@@ -65,6 +60,8 @@
     "Application.Tarea.executor": "Run",
     "Application.Tarea2.executor": "Run",
     "Application.TareaCalcularEdad.executor": "Run",
+    "Application.TareaMath.executor": "Run",
+    "Application.ordenPricipioFinal.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,13 +81,13 @@
       <recent name="org.ycmejia.FlujosDeControl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TareaCalcularEdad">
-    <configuration name="EjemploCapturaFecha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.EjemploCapturaFecha" />
+  <component name="RunManager" selected="Application.DetectarOrdenArreglos">
+    <configuration name="ArreglosCombinados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.ArreglosCombinados" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploCompararFechas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.EjemploCompararFechas" />
+    <configuration name="DetectarOrdenArreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.DetectarOrdenArreglos" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploJavautilCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.EjemploJavautilCalendar" />
+    <configuration name="NumeroMayorArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.NumeroMayorArreglo" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManejoMilisegundos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.ManejoMilisegundos" />
+    <configuration name="OrdenamientoBurbuja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.OrdenamientoBurbuja" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TareaCalcularEdad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.DateCaledar.TareaCalcularEdad" />
+    <configuration name="ordenPricipioFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.ordenPricipioFinal" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.DateCaledar.*" />
+          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TareaCalcularEdad" />
-        <item itemvalue="Application.EjemploCompararFechas" />
-        <item itemvalue="Application.EjemploCapturaFecha" />
-        <item itemvalue="Application.EjemploJavautilCalendar" />
-        <item itemvalue="Application.ManejoMilisegundos" />
+        <item itemvalue="Application.DetectarOrdenArreglos" />
+        <item itemvalue="Application.NumeroMayorArreglo" />
+        <item itemvalue="Application.ArreglosCombinados" />
+        <item itemvalue="Application.ordenPricipioFinal" />
+        <item itemvalue="Application.OrdenamientoBurbuja" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +173,8 @@
       <option name="presentableId" value="Default" />
       <updated>1705159812143</updated>
       <workItem from="1705159813271" duration="9558000" />
-      <workItem from="1705235814634" duration="4891000" />
+      <workItem from="1705235814634" duration="8699000" />
+      <workItem from="1705405257392" duration="7084000" />
     </task>
     <servers />
   </component>
@@ -203,6 +201,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/OrdenarArreglos.java</url>
+          <line>6</line>
+          <properties class="org.ycmejia.Arreglos.OrdenarArreglos" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java</url>
