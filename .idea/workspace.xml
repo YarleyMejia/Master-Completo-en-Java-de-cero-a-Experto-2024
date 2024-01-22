@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosCombinados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/DetectarOrdenArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/NumeroMayorArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/OrdenamientoBurbuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/OrdenarArreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ordenPricipioFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ClaseMath/TareaMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/SystemProperties/EjemploSystemProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArregloNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosDesplazamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosDesplazamiento2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosOrdenContinuo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosParesImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ProgramaImprimirMasOcurrencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/Tarea1Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/Tarea2Mayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/TareaHistograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/BusquedaMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/ConvertirMatrizTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/MatricesColumnasVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/MatrizTranspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/TareaImprimirX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,23 +49,38 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArregloNotas.executor": "Run",
     "Application.ArreglosCombinados.executor": "Run",
+    "Application.ArreglosDesplazamiento.executor": "Run",
+    "Application.ArreglosDesplazamiento2.executor": "Run",
+    "Application.ArreglosOrdenContinuo.executor": "Run",
+    "Application.ArreglosParesImpares.executor": "Run",
+    "Application.BusquedaMatrices.executor": "Run",
+    "Application.ConvertirMatrizTranspuesta.executor": "Run",
+    "Application.DetectarOrdenArreglos.executor": "Run",
     "Application.EjemploCapturaFecha.executor": "Run",
     "Application.EjemploCompararFechas.executor": "Run",
     "Application.EjemploJavaUtilDate.executor": "Run",
     "Application.EjemploJavautilCalendar.executor": "Run",
     "Application.EjemploSystemProperties.executor": "Run",
     "Application.ManejoMilisegundos.executor": "Run",
+    "Application.MatricesColumnasVariables.executor": "Run",
+    "Application.MatrizTranspuesta.executor": "Run",
     "Application.NumeroMayorArreglo.executor": "Run",
     "Application.OrdenamientoBurbuja.executor": "Run",
     "Application.OrdenarArreglos.executor": "Run",
+    "Application.ProgramaImprimirMasOcurrencias.executor": "Run",
     "Application.SentenciaForArreglos.executor": "Run",
     "Application.SentenciaIfElse.executor": "Run",
     "Application.SentenciaSwitchCase.executor": "Run",
     "Application.SentenciasBucleEtiquetas.executor": "Run",
+    "Application.Tare3Ocurrencia.executor": "Run",
     "Application.Tarea.executor": "Run",
+    "Application.Tarea1Orden.executor": "Run",
     "Application.Tarea2.executor": "Run",
+    "Application.Tarea2Mayor.executor": "Run",
     "Application.TareaCalcularEdad.executor": "Run",
+    "Application.TareaHistograma.executor": "Run",
     "Application.TareaMath.executor": "Run",
     "Application.ordenPricipioFinal.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
@@ -81,13 +102,13 @@
       <recent name="org.ycmejia.FlujosDeControl" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DetectarOrdenArreglos">
-    <configuration name="ArreglosCombinados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.ArreglosCombinados" />
+  <component name="RunManager" selected="Application.TareaImprimirX">
+    <configuration name="BusquedaMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.BusquedaMatrices" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
+          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetectarOrdenArreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.DetectarOrdenArreglos" />
+    <configuration name="ConvertirMatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.ConvertirMatrizTranspuesta" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
+          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroMayorArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.NumeroMayorArreglo" />
+    <configuration name="MatricesColumnasVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.MatricesColumnasVariables" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
+          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenamientoBurbuja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.OrdenamientoBurbuja" />
+    <configuration name="MatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.MatrizTranspuesta" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
+          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ordenPricipioFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Arreglos.ordenPricipioFinal" />
+    <configuration name="TareaImprimirX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.TareaImprimirX" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Arreglos.*" />
+          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DetectarOrdenArreglos" />
-        <item itemvalue="Application.NumeroMayorArreglo" />
-        <item itemvalue="Application.ArreglosCombinados" />
-        <item itemvalue="Application.ordenPricipioFinal" />
-        <item itemvalue="Application.OrdenamientoBurbuja" />
+        <item itemvalue="Application.TareaImprimirX" />
+        <item itemvalue="Application.ConvertirMatrizTranspuesta" />
+        <item itemvalue="Application.MatrizTranspuesta" />
+        <item itemvalue="Application.BusquedaMatrices" />
+        <item itemvalue="Application.MatricesColumnasVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +195,10 @@
       <updated>1705159812143</updated>
       <workItem from="1705159813271" duration="9558000" />
       <workItem from="1705235814634" duration="8699000" />
-      <workItem from="1705405257392" duration="7084000" />
+      <workItem from="1705405257392" duration="7827000" />
+      <workItem from="1705458999012" duration="3222000" />
+      <workItem from="1705626812976" duration="2992000" />
+      <workItem from="1705857229491" duration="9901000" />
     </task>
     <servers />
   </component>
@@ -211,6 +235,15 @@
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/ConvertirMatrizTranspuesta.java</url>
+          <line>3</line>
+          <properties class="org.ycmejia.Matrices.ConvertirMatrizTranspuesta" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java</url>
           <line>5</line>
@@ -221,7 +254,17 @@
           <line>20</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/TareaHistograma.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Master_Completo_en_Java_de_cero_a_Experto_2024$MatrizTranspuesta.ic" NAME="MatrizTranspuesta Coverage Results" MODIFIED="1705877190055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.ycmejia.Matrices.*</FILTER>
+    </SUITE>
   </component>
 </project>
