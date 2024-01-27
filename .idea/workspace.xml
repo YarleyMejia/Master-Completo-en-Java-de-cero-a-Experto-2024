@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArregloNotas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosDesplazamiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosDesplazamiento2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosOrdenContinuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ArreglosParesImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/ProgramaImprimirMasOcurrencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/Tarea1Orden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/Tarea2Mayor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/TareaHistograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/BusquedaMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/ConvertirMatrizTranspuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/MatricesColumnasVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/MatrizTranspuesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Matrices/TareaImprimirX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilArreglo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Estanque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Descripcion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/OrdenCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Rueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoAutomovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoMotor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +73,7 @@
     "Application.NumeroMayorArreglo.executor": "Run",
     "Application.OrdenamientoBurbuja.executor": "Run",
     "Application.OrdenarArreglos.executor": "Run",
+    "Application.Principal.executor": "Run",
     "Application.ProgramaImprimirMasOcurrencias.executor": "Run",
     "Application.SentenciaForArreglos.executor": "Run",
     "Application.SentenciaIfElse.executor": "Run",
@@ -81,6 +86,7 @@
     "Application.Tarea2Mayor.executor": "Run",
     "Application.TareaCalcularEdad.executor": "Run",
     "Application.TareaHistograma.executor": "Run",
+    "Application.TareaImprimirX.executor": "Debug",
     "Application.TareaMath.executor": "Run",
     "Application.ordenPricipioFinal.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
@@ -89,6 +95,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "YarleyMejia",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lenovo/Desktop/Programacion UDEMY/Master Completo en Java de cero a Experto 2024/src/main/java/org/ycmejia/POO/ClassAndObjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,8 +108,11 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.ycmejia.FlujosDeControl" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Programacion UDEMY\Master Completo en Java de cero a Experto 2024\src\main\java\org\ycmejia\POO\ClassAndObjects" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TareaImprimirX">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="BusquedaMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.BusquedaMatrices" />
       <module name="Udemy" />
@@ -129,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatricesColumnasVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.MatricesColumnasVariables" />
+    <configuration name="MatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.MatrizTranspuesta" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
@@ -142,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.MatrizTranspuesta" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra.Principal" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
+          <option name="PATTERN" value="org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.TareaImprimirX" />
         <item itemvalue="Application.ConvertirMatrizTranspuesta" />
         <item itemvalue="Application.MatrizTranspuesta" />
         <item itemvalue="Application.BusquedaMatrices" />
-        <item itemvalue="Application.MatricesColumnasVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +208,8 @@
       <workItem from="1705405257392" duration="7827000" />
       <workItem from="1705458999012" duration="3222000" />
       <workItem from="1705626812976" duration="2992000" />
-      <workItem from="1705857229491" duration="9901000" />
+      <workItem from="1705857229491" duration="10078000" />
+      <workItem from="1706383232096" duration="3410000" />
     </task>
     <servers />
   </component>
@@ -243,6 +254,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Principal.java</url>
+          <line>6</line>
+          <properties class="org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra.Principal" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java</url>
