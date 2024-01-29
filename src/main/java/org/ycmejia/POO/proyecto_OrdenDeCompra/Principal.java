@@ -1,6 +1,5 @@
-package org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra;
+package org.ycmejia.POO.proyecto_OrdenDeCompra;
 
-import java.sql.SQLOutput;
 import java.util.Date;
 
 public class Principal {

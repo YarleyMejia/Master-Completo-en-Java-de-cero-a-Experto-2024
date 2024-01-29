@@ -1,4 +1,4 @@
-package org.ycmejia.POO.ClassAndObjects;
+package org.ycmejia.POO.classAndObjects;
 
 public class EjemploAutomovilStatic {
     public static void main(String[] args) {

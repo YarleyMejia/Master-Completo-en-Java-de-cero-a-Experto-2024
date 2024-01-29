@@ -1,4 +1,4 @@
-package org.ycmejia.POO.ClassAndObjects;
+package org.ycmejia.POO.classAndObjects;
 
 import java.util.Arrays;
 

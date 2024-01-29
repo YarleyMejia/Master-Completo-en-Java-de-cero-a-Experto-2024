@@ -5,25 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Automovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Estanque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Descripcion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/OrdenCompra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Rueda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoAutomovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoMotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/Factura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/ItemFactura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/Producto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Automovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilArreglo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilRelacionesObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Estanque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Estanque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Motor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Descripcion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Descripcion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/OrdenCompra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/OrdenCompra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Rueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Rueda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoAutomovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/TipoAutomovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/TipoMotor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,59 +56,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArregloNotas.executor": "Run",
-    "Application.ArreglosCombinados.executor": "Run",
-    "Application.ArreglosDesplazamiento.executor": "Run",
-    "Application.ArreglosDesplazamiento2.executor": "Run",
-    "Application.ArreglosOrdenContinuo.executor": "Run",
-    "Application.ArreglosParesImpares.executor": "Run",
-    "Application.BusquedaMatrices.executor": "Run",
-    "Application.ConvertirMatrizTranspuesta.executor": "Run",
-    "Application.DetectarOrdenArreglos.executor": "Run",
-    "Application.EjemploCapturaFecha.executor": "Run",
-    "Application.EjemploCompararFechas.executor": "Run",
-    "Application.EjemploJavaUtilDate.executor": "Run",
-    "Application.EjemploJavautilCalendar.executor": "Run",
-    "Application.EjemploSystemProperties.executor": "Run",
-    "Application.ManejoMilisegundos.executor": "Run",
-    "Application.MatricesColumnasVariables.executor": "Run",
-    "Application.MatrizTranspuesta.executor": "Run",
-    "Application.NumeroMayorArreglo.executor": "Run",
-    "Application.OrdenamientoBurbuja.executor": "Run",
-    "Application.OrdenarArreglos.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.ProgramaImprimirMasOcurrencias.executor": "Run",
-    "Application.SentenciaForArreglos.executor": "Run",
-    "Application.SentenciaIfElse.executor": "Run",
-    "Application.SentenciaSwitchCase.executor": "Run",
-    "Application.SentenciasBucleEtiquetas.executor": "Run",
-    "Application.Tare3Ocurrencia.executor": "Run",
-    "Application.Tarea.executor": "Run",
-    "Application.Tarea1Orden.executor": "Run",
-    "Application.Tarea2.executor": "Run",
-    "Application.Tarea2Mayor.executor": "Run",
-    "Application.TareaCalcularEdad.executor": "Run",
-    "Application.TareaHistograma.executor": "Run",
-    "Application.TareaImprimirX.executor": "Debug",
-    "Application.TareaMath.executor": "Run",
-    "Application.ordenPricipioFinal.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "YarleyMejia",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lenovo/Desktop/Programacion UDEMY/Master Completo en Java de cero a Experto 2024/src/main/java/org/ycmejia/POO/ClassAndObjects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArregloNotas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArreglosCombinados.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArreglosDesplazamiento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArreglosDesplazamiento2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArreglosOrdenContinuo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArreglosParesImpares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BusquedaMatrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertirMatrizTranspuesta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetectarOrdenArreglos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploCapturaFecha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploCompararFechas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploJavaUtilDate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploJavautilCalendar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploSystemProperties.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ManejoMilisegundos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatricesColumnasVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrizTranspuesta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumeroMayorArreglo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrdenamientoBurbuja.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrdenarArreglos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgramaImprimirMasOcurrencias.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenciaForArreglos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenciaIfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenciaSwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SentenciasBucleEtiquetas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tare3Ocurrencia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tarea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tarea1Orden.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tarea2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tarea2Mayor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TareaCalcularEdad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TareaHistograma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TareaImprimirX.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TareaMath.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ordenPricipioFinal.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;YarleyMejia&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/Programacion UDEMY/Master Completo en Java de cero a Experto 2024/src/main/java/org/ycmejia/POO/ClassAndObjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.ycmejia.FlujosDeControl" />
@@ -112,9 +118,9 @@
       <recent name="C:\Users\lenovo\Desktop\Programacion UDEMY\Master Completo en Java de cero a Experto 2024\src\main\java\org\ycmejia\POO\ClassAndObjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
-    <configuration name="BusquedaMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.BusquedaMatrices" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConvertirMatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.ConvertirMatrizTranspuesta" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertirMatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.ConvertirMatrizTranspuesta" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.POO.proyectoFactura.Main" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
+          <option name="PATTERN" value="org.ycmejia.POO.proyectoFactura.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +159,11 @@
       </method>
     </configuration>
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra.Principal" />
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.POO.proyecto_OrdenDeCompra.Principal" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra.*" />
+          <option name="PATTERN" value="org.ycmejia.POO.proyecto_OrdenDeCompra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.TareaImprimirX" />
         <item itemvalue="Application.ConvertirMatrizTranspuesta" />
         <item itemvalue="Application.MatrizTranspuesta" />
-        <item itemvalue="Application.BusquedaMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +215,8 @@
       <workItem from="1705458999012" duration="3222000" />
       <workItem from="1705626812976" duration="2992000" />
       <workItem from="1705857229491" duration="10078000" />
-      <workItem from="1706383232096" duration="3410000" />
+      <workItem from="1706383232096" duration="13547000" />
+      <workItem from="1706534994885" duration="945000" />
     </task>
     <servers />
   </component>
@@ -256,9 +263,9 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Principal.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Principal.java</url>
           <line>6</line>
-          <properties class="org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra.Principal" method="main">
+          <properties class="org.ycmejia.POO.classAndObjects.proyecto_OrdenDeCompra.Principal">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

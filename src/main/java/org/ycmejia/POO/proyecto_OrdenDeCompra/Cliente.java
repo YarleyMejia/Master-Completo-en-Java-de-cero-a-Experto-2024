@@ -1,4 +1,4 @@
-package org.ycmejia.POO.ClassAndObjects.Proyecto_OrdenDeCompra;
+package org.ycmejia.POO.proyecto_OrdenDeCompra;
 
 public class Cliente {
     private String nombre;
