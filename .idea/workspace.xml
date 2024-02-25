@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/ItemFactura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Bolsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Automovil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilArreglo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilArreglo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilRelacionesObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilRelacionesObjetos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/EjemploAutomovilStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/EjemploAutomovilStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Estanque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Estanque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Descripcion" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Descripcion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/OrdenCompra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/OrdenCompra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Proyecto_OrdenDeCompra/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/Rueda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/Rueda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoAutomovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/TipoAutomovil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/ClassAndObjects/TipoMotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/classAndObjects/TipoMotor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +197,12 @@
       <workItem from="1705626812976" duration="2992000" />
       <workItem from="1705857229491" duration="10078000" />
       <workItem from="1706383232096" duration="13547000" />
-      <workItem from="1706534994885" duration="945000" />
+      <workItem from="1706534994885" duration="1019000" />
+      <workItem from="1707440742008" duration="15000" />
+      <workItem from="1707442242562" duration="615000" />
+      <workItem from="1707672159920" duration="213000" />
+      <workItem from="1708650125912" duration="178000" />
+      <workItem from="1708651573196" duration="1919000" />
     </task>
     <servers />
   </component>
