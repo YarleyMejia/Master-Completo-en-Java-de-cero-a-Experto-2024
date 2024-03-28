@@ -9,7 +9,8 @@ public class ItemFactura   {
         this.cantidad = cantidad;
     }
 
-    public int getCantidad() {
+    public int getCantidad(){
+
         return cantidad;
     }
 

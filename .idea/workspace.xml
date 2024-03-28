@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Bolsa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Elemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/ItemFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/ItemFactura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Bolsa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Elemento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Principal.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,60 +37,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArregloNotas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArreglosCombinados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArreglosDesplazamiento.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArreglosDesplazamiento2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArreglosOrdenContinuo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArreglosParesImpares.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BusquedaMatrices.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertirMatrizTranspuesta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DetectarOrdenArreglos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploCapturaFecha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploCompararFechas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploJavaUtilDate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploJavautilCalendar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploSystemProperties.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ManejoMilisegundos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatricesColumnasVariables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrizTranspuesta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumeroMayorArreglo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrdenamientoBurbuja.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrdenarArreglos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProgramaImprimirMasOcurrencias.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentenciaForArreglos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentenciaIfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentenciaSwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SentenciasBucleEtiquetas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tare3Ocurrencia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tarea.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tarea1Orden.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tarea2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tarea2Mayor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TareaCalcularEdad.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TareaHistograma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TareaImprimirX.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TareaMath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ordenPricipioFinal.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;YarleyMejia&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/Programacion UDEMY/Master Completo en Java de cero a Experto 2024/src/main/java/org/ycmejia/POO/ClassAndObjects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArregloNotas.executor": "Run",
+    "Application.ArreglosCombinados.executor": "Run",
+    "Application.ArreglosDesplazamiento.executor": "Run",
+    "Application.ArreglosDesplazamiento2.executor": "Run",
+    "Application.ArreglosOrdenContinuo.executor": "Run",
+    "Application.ArreglosParesImpares.executor": "Run",
+    "Application.BusquedaMatrices.executor": "Run",
+    "Application.ConvertirMatrizTranspuesta.executor": "Run",
+    "Application.DetectarOrdenArreglos.executor": "Run",
+    "Application.EjemploCapturaFecha.executor": "Run",
+    "Application.EjemploCompararFechas.executor": "Run",
+    "Application.EjemploJavaUtilDate.executor": "Run",
+    "Application.EjemploJavautilCalendar.executor": "Run",
+    "Application.EjemploSystemProperties.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ManejoMilisegundos.executor": "Run",
+    "Application.MatricesColumnasVariables.executor": "Run",
+    "Application.MatrizTranspuesta.executor": "Run",
+    "Application.NumeroMayorArreglo.executor": "Run",
+    "Application.OrdenamientoBurbuja.executor": "Run",
+    "Application.OrdenarArreglos.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.ProgramaImprimirMasOcurrencias.executor": "Run",
+    "Application.SentenciaForArreglos.executor": "Run",
+    "Application.SentenciaIfElse.executor": "Run",
+    "Application.SentenciaSwitchCase.executor": "Run",
+    "Application.SentenciasBucleEtiquetas.executor": "Run",
+    "Application.Tare3Ocurrencia.executor": "Run",
+    "Application.Tarea.executor": "Run",
+    "Application.Tarea1Orden.executor": "Run",
+    "Application.Tarea2.executor": "Run",
+    "Application.Tarea2Mayor.executor": "Run",
+    "Application.TareaCalcularEdad.executor": "Run",
+    "Application.TareaHistograma.executor": "Run",
+    "Application.TareaImprimirX.executor": "Debug",
+    "Application.TareaMath.executor": "Run",
+    "Application.ordenPricipioFinal.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "YarleyMejia",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lenovo/Desktop/Programacion UDEMY/Master Completo en Java de cero a Experto 2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.ycmejia.FlujosDeControl" />
@@ -178,7 +178,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
       </set>
     </attachedChunks>
   </component>
@@ -203,6 +203,8 @@
       <workItem from="1707672159920" duration="213000" />
       <workItem from="1708650125912" duration="178000" />
       <workItem from="1708651573196" duration="1919000" />
+      <workItem from="1708881598266" duration="5665000" />
+      <workItem from="1710099655310" duration="6955000" />
     </task>
     <servers />
   </component>
