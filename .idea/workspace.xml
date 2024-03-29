@@ -5,11 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ba09dd7-ace3-4a7a-a9cb-9769a3070dc6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/ComparableComparator/ListComparableComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/EjemplosSet/EjemploHahsSetBuscarDuplicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/EjemplosSet/EjemploHahsSetBuscarDuplicado2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/EjemplosSet/EjemploHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/EjemplosTreeSet/EjemploTreSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/EjemplosTreeSet/TreeSetComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/FormasIterar/IteracionSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/MetodosList/EjemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/Modelo/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/Iterator/EjemploListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/LinkedList/EjemploLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/Map/EjemploHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/Map/HashMapObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/Map/MetodosImportantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/Map/TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/ProyectoVuelo/Descripcion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/ProyectoVuelo/MainProyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/PilasColas/ProyectoVuelo/Vuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Excepciones/Checked/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Excepciones/Checked/ExcepcionPersonalizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Excepciones/Checked/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Excepciones/EjemploExcepciones/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/BoundedGenerics/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/BoundedGenerics/ClientePremium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/BoundedGenerics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ClasesGenericas/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ClasesGenericas/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ClasesGenericas/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ClasesGenericas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ClasesGenericas/Maquinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Ejemplo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Ejemplo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/BolsaSupermercado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/Fruta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/Lacteo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/Limpieza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/MainProyecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/NoPerecible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ProyectoProducto/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/EjemploRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/EjemploRepositorioProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/modelo/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/modelo/ClientePremium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/modelo/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/AbstractaListRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/ContableRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/CrudRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/OrdenablePaginableCrudRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/OrdenableRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/PaginableRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/TipoOrden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/lista/ClienteListRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/Repositorio/repositorio/lista/ProductoListRepositorio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/ItemFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyectoFactura/Modelo/ItemFactura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Bolsa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Elemento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/Recursividad/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaIfElseNumeroDiasMes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciaIfElseNumeroDiasMes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +70,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,15 +100,30 @@
     "Application.BusquedaMatrices.executor": "Run",
     "Application.ConvertirMatrizTranspuesta.executor": "Run",
     "Application.DetectarOrdenArreglos.executor": "Run",
+    "Application.Ejemplo.executor": "Run",
+    "Application.EjemploArrayList.executor": "Run",
     "Application.EjemploCapturaFecha.executor": "Run",
     "Application.EjemploCompararFechas.executor": "Run",
+    "Application.EjemploHahsSetBuscarDuplicado.executor": "Run",
+    "Application.EjemploHahsSetBuscarDuplicado2.executor": "Run",
+    "Application.EjemploHashMap.executor": "Run",
+    "Application.EjemploHashSet.executor": "Run",
     "Application.EjemploJavaUtilDate.executor": "Run",
     "Application.EjemploJavautilCalendar.executor": "Run",
+    "Application.EjemploLinkedList.executor": "Run",
+    "Application.EjemploListIterator.executor": "Run",
+    "Application.EjemploRepositorioProducto.executor": "Run",
     "Application.EjemploSystemProperties.executor": "Run",
+    "Application.EjemploTreSet.executor": "Run",
+    "Application.HashMapObject.executor": "Run",
+    "Application.IteracionSet.executor": "Run",
+    "Application.ListComparableComparator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainProyecto.executor": "Run",
     "Application.ManejoMilisegundos.executor": "Run",
     "Application.MatricesColumnasVariables.executor": "Run",
     "Application.MatrizTranspuesta.executor": "Run",
+    "Application.MetodosImportantes.executor": "Run",
     "Application.NumeroMayorArreglo.executor": "Run",
     "Application.OrdenamientoBurbuja.executor": "Run",
     "Application.OrdenarArreglos.executor": "Run",
@@ -75,14 +142,20 @@
     "Application.TareaHistograma.executor": "Run",
     "Application.TareaImprimirX.executor": "Debug",
     "Application.TareaMath.executor": "Run",
+    "Application.TreeMap.executor": "Run",
+    "Application.TreeSetComparable.executor": "Run",
     "Application.ordenPricipioFinal.executor": "Run",
+    "Application.org.ycmejia.Generics.BoundedGenerics.Main.executor": "Run",
+    "Application.org.ycmejia.Generics.ClasesGenericas.Main.executor": "Run",
+    "Application.org.ycmejia.Generics.Ejemplo.Main.executor": "Run",
+    "Application.org.ycmejia.Generics.ProyectoProducto.MainProyecto.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "YarleyMejia",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lenovo/Desktop/Programacion UDEMY/Master Completo en Java de cero a Experto 2024",
+    "last_opened_file_path": "C:/Users/lenovo/Downloads/colecciones/src/org/aguzman/ejemplos/modelo/Alumno.java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,19 +166,26 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.ycmejia.ApiColections.PilasColas.ProyectoVuelo" />
       <recent name="org.ycmejia.FlujosDeControl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Programacion UDEMY\Master Completo en Java de cero a Experto 2024\src\main\java\org\ycmejia\Generics\Repositorio" />
       <recent name="C:\Users\lenovo\Desktop\Programacion UDEMY\Master Completo en Java de cero a Experto 2024\src\main\java\org\ycmejia\POO\ClassAndObjects" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ycmejia.ApiColections.PilasColas.Iterator" />
+      <recent name="org.ycmejia.ApiColections.MetodosList" />
+      <recent name="org.ycmejia.ApiColections.EjemplosSet" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ConvertirMatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.ConvertirMatrizTranspuesta" />
+  <component name="RunManager" selected="Application.org.ycmejia.Generics.ProyectoProducto.MainProyecto">
+    <configuration name="HashMapObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.ApiColections.PilasColas.Map.HashMapObject" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
+          <option name="PATTERN" value="org.ycmejia.ApiColections.PilasColas.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.POO.proyectoFactura.Main" />
+    <configuration name="MainProyecto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.ApiColections.PilasColas.ProyectoVuelo.MainProyecto" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.POO.proyectoFactura.*" />
+          <option name="PATTERN" value="org.ycmejia.ApiColections.PilasColas.ProyectoVuelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrizTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.MatrizTranspuesta" />
+    <configuration name="MetodosImportantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.ApiColections.PilasColas.Map.MetodosImportantes" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
+          <option name="PATTERN" value="org.ycmejia.ApiColections.PilasColas.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.POO.proyecto_OrdenDeCompra.Principal" />
+    <configuration name="TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.ApiColections.PilasColas.Map.TreeMap" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.POO.proyecto_OrdenDeCompra.*" />
+          <option name="PATTERN" value="org.ycmejia.ApiColections.PilasColas.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TareaImprimirX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Matrices.TareaImprimirX" />
+    <configuration name="org.ycmejia.Generics.ProyectoProducto.MainProyecto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ycmejia.Generics.ProyectoProducto.MainProyecto" />
       <module name="Udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ycmejia.Matrices.*" />
+          <option name="PATTERN" value="org.ycmejia.Generics.ProyectoProducto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.TareaImprimirX" />
-        <item itemvalue="Application.ConvertirMatrizTranspuesta" />
-        <item itemvalue="Application.MatrizTranspuesta" />
+        <item itemvalue="Application.org.ycmejia.Generics.ProyectoProducto.MainProyecto" />
+        <item itemvalue="Application.MainProyecto" />
+        <item itemvalue="Application.TreeMap" />
+        <item itemvalue="Application.HashMapObject" />
+        <item itemvalue="Application.MetodosImportantes" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +285,7 @@
       <workItem from="1708651573196" duration="1919000" />
       <workItem from="1708881598266" duration="5665000" />
       <workItem from="1710099655310" duration="6955000" />
+      <workItem from="1711630883702" duration="36207000" />
     </task>
     <servers />
   </component>
@@ -253,11 +334,29 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/POO/proyecto_OrdenDeCompra/Principal.java</url>
           <line>6</line>
-          <properties class="org.ycmejia.POO.classAndObjects.proyecto_OrdenDeCompra.Principal">
+          <properties class="org.ycmejia.POO.proyecto_OrdenDeCompra.Principal">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/ClasesGenericas/Main.java</url>
+          <line>13</line>
+          <properties class="org.ycmejia.Generics.ClasesGenericas.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/ApiColections/EjemplosTreeSet/TreeSetComparable.java</url>
+          <line>9</line>
+          <properties class="org.ycmejia.ApiColections.EjemplosTreeSet.TreeSetComparable" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/FlujosDeControl/SentenciasBucleEtiquetas.java</url>
@@ -273,6 +372,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/Arreglos/TareaHistograma.java</url>
           <line>20</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ycmejia/Generics/BoundedGenerics/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

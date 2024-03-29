@@ -1,7 +1,7 @@
 package org.ycmejia.FlujosDeControl;
 
 public class SentenciaIfElseNumeroDiasMes {
-    //Ejemplo apra calcular numeros dias de un mes
+    //Cliente apra calcular numeros dias de un mes
 
     public static void main(String[] args) {
         int mes=2;
