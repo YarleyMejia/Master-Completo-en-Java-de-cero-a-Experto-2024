@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+<form>
+    <label for="username">Nombre de usuario:</label>
+    <input type="text" id="username" name="username" value="camilo.doe">
+    <br>
+
+    <label for="clave">Contraseña:</label>
+    <input type="password" id="clave" name="clave" value="Familia">
+    <br>
+
+    <label for="email">Correo electrónico:</label>
+    <input type="email" id="email" name="email" value="camilo@gmail.com">
+    <br>
+
+    <label for="edad">Edad:</label>
+    <input type="number" id="edad" name="edad" value="27">
+    <br>
+
+    <label for="exp">Experiencia:</label>
+    <textarea id="exp" name="exp" cols="30" rows="5">Menos de 10 años de experiencia</textarea>
+    <br>
+    <input disabled name='Saludao'value ="Hola este campo esta deshabilitado">
+    <br>
+
+    <label for="lenguaje">Lenguaje de programación preferido:</label>
+    <select id="lenguaje" name="lenguaje">
+        <option value="1" selected>JAVA</option>
+        <option value="2">Python</option>
+        <option value="3">JavaScript</option>
+        <option value="4">TypeScript</option>
+        <option value="5">PHP</option>
+    </select>
+    <br><br>
+
+    <button type="submit">Enviar</button>
+</form>
+</body>
+</html>
